@@ -7,13 +7,11 @@ Conteúdo passado em aula
 ---------------------------
 #Acesso ao repositório de aula, conteúdo 
 
-https://github.com/EdsonTiepermann
-
-Repositório: turma-tarde-2023
+Repositório: turma-noite-2023
 
 
 <details>
-<summary>Aula 01 - dia 13 de Março: Introdução ao curso</summary>
+<summary>Aula 01 - dia 14 de Março: Introdução ao curso</summary>
 
 - O que é o curso
 
@@ -98,7 +96,7 @@ O termo surgiu com a junção entre informação e automática.
 </details>
 
 <details>
-<summary>Aula 02 - dia 17 de Março: Introdução ao software</summary>
+<summary>Aula 02 - dia 16 de Março: Introdução ao software</summary>
 
 - O que é um software.
   - conjunto de componentes lógicos de um computador ou sistema de processamento de dados; programa, rotina ou conjunto de instruções que controlam o funcionamento de um computador;
@@ -247,7 +245,7 @@ O termo surgiu com a junção entre informação e automática.
 </details>
 
 <details>
-<summary>Aula 03 - dia 20 de Março: Introdução ao Hardware</summary> 
+<summary>Aula 03 - dia 21 de Março: Introdução ao Hardware</summary> 
 
   - Hardware é a parte física da máquina, formado por componentes eletrônicos, como fios, placas e circuitos;
   -O Hardware não se limita somente em computadores pessoais, também o encontramos em carros, celulares entre outros.
@@ -377,7 +375,7 @@ Já existentes em alguns laboratórios, porém distante da maioria;
 </details>
 
 <details>
-<summary>Aula 04 - dia 24 de Março: Introdução ao Sistema Operacional</summary>
+<summary>Aula 04 - dia 23 de Março: Introdução ao Sistema Operacional</summary>
   
 - Sistema Operacional - SO
   
@@ -418,7 +416,7 @@ Já existentes em alguns laboratórios, porém distante da maioria;
 </details>
 
 <details>
-<summary>Aula 05 - dia 27 de Março: Introdução a Internet</summary>
+<summary>Aula 05 - dia 28 de Março: Introdução a Internet</summary>
   
 - O que é a Internet
   - Rede global de computadores
@@ -559,7 +557,7 @@ https://www.youtube.com/watch?v=AABqPceCwZk
 Aula 06 - dia 30 de Março: Prova de informática básica
 
 <details>
-<summary>Aula 07 - dia 03 de Abril: </summary>
+<summary>Aula 07 - dia 04 de Abril: </summary>
 
 
 </details>
