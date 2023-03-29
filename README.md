@@ -1,7 +1,7 @@
 # turma-noite-2023
 aulas
 
-# turma-tarde-2023 - 2024
+# turma-noite-2023 - 2024
 Conteúdo passado em aula
 
 ---------------------------
