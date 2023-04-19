@@ -557,7 +557,501 @@ https://www.youtube.com/watch?v=AABqPceCwZk
 Aula 06 - dia 30 de Março: Prova de informática básica
 
 <details>
-<summary>Aula 07 - dia 04 de Abril: </summary>
+<summary>Aula 07 - dia 04 de Abril: Padronizações</summary>
+
+- O que é padronização de código
+
+  - A norma geralmente é aceita e utilizada por um grupo de programadores, para partilhar uniformemente o código.
+  
+  - Objetivo é simplificar a compreensão do código por uma pessoa.
+  
+  - Minimizar o esforço da memória, pensamento e visão ao ler um código.
+
+- Quais iremos utilizar?
+  
+  - JavaScript
+    - Google Javascript Style Guide
+    
+  - PHP
+  
+    - PSR
+    
+    ![image](https://user-images.githubusercontent.com/33090891/229382699-06338714-e93b-4cdd-9bf4-c0d8a65a8092.png)
+    
+- Ambiente de desenvolvimento
+
+  - Termo utilizado tudo que o projeto necessida para o desenvolvimento e implementação do sistema, como:
+  
+      - Ferramentas
+      
+      - Processos
+      
+      - Infra estrutura
+   
+   - Geralmente o desenvolvimento é dividido em:
+   
+    - Desenvolvimento
+    
+    - Produção  
+
+  - Projetos ou empresas maiores podem adicionar mais camadas como:
+  
+    - Test
+    
+    - Alfa
+    
+    - Beta
+    
+    - Release, etc… 
+    
+![image](https://user-images.githubusercontent.com/33090891/229382769-d1357d06-70e6-4bc4-af26-e20ce80ac675.png)
+
+
+![image](https://user-images.githubusercontent.com/33090891/229382777-7d8cc5ea-705a-4aeb-905f-9bb54609f554.png)
+
+
+![image](https://user-images.githubusercontent.com/33090891/229382792-e91780b3-7d44-46b9-9fc6-47ccf821fd64.png)
+
+- Front-end
+
+  - Conhecido como interface frontal ou parte frontal.
+  
+    - HTML - Hypertext Markup Language
+    
+    - CSS - Cascading Stylesheet
+    
+    - JavaScript
+
+- Back-end
+
+  - Conhecido como parte secundária, parte da retaguarda.
+  
+    - PHP - Hypertext Preprocessor.
+
+- Full-stack
+
+  - Conhecido como conjunto de soluções ou pilha de soluções.
+
+  - Desktop Developer
+  
+  - Graphics Developer
+  
+  - Gamer Developer
+  
+  - Data Scientist
+  
+  - Big Data Developer
+  
+  - Security Developer ...
+
+- Case-sensitive 
+
+  - Referente a análise tipográfica da informática, algo sensível a caixa de letras.
+
+- UPPER CASE
+
+  - Converter todas as letras para maiúsculas
+  
+- lower case 
+
+  - Converter todas as letras para minúsculas
+
+- camelCase
+
+  - Começa com uma letra minúscula e a primeira de cada nova palavra maiúscula.
+  
+- snake_case
+
+  - Substitui os espaços por um _ (low dash ou underscore), e todas as letras minúsculas
+
+- kebeb-case
+
+  - Substitui os espaços por um - (dash) e todas as letras minúsculas.
+  
+- UPPER_CASE_SNAKE_CASE
+
+  - Substitui todos os espaços por _ e todas as letras são maiúsculas.
+  
+- Lógica de programação
+
+  - Maneira como se escreve um algoritmo.
+    - Algoritmo
+    
+      - Sequência de passos necessários para que uma função seja executada.
+      
+      - Podemos compará-la como uma receita.
+      
+      ![image](https://user-images.githubusercontent.com/33090891/229382982-296e3894-5d87-465a-933d-50837fa02de4.png)
+
+- Para esses processos, é necessário a linguagem de programação.
+
+    - Como linguagem normal;
+    
+    - Palavras possuem significados;
+    
+    - O computador assimila e executa;
+
+- Google Doodle (Celebrando 50 anos programação para crianças)
+
+https://www.google.com.br/logos/2017/logo17/logo17.html?hl=pt-BR
+
+</details>
+
+<details>
+<summary>Aula 08 - dia 06 de Abril: Sistema de controle de versões </summary>
+
+- O que é git?
+
+  - o GIT é um Sistema de Controle de Versões Distribuído
+
+  - Possuem a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permitindo que, caso seja necessário, um programador possa regredir a versão anterior de uma aplicação de modo simples e rápido.
+  
+    - Este tipo de sistema também simplifica muito o processo de compartilhamento de um projeto com um time, por exemplo, ou com outros(as) programadores(as).
+    
+- O que é gitHub?
+
+  - é uma espécie de rede social voltada a profissionais de TI cuja tecnologia que o sustenta é o GIT.
+
+  - Em outras palavras, GitHub é uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros(as) programadores(as) e interagir com códigos de terceiros.
+  
+  - O GitHub armazena todos estes dados em uma nuvem e você pode acessá-los de onde estiver: basta logar-se no site em qualquer navegador.
+
+- Vantagens do git!
+
+  - ‘Refazer’ uma regra de negócio antiga.
+  
+  - Trabalho colaborativo.
+  
+  - Controle de versões.
+  
+  - Oportunidade de aprender com programadores mais experientes;
+  
+  - Possibilidade de acompanhar e colaborar com projetos de diferentes equipes;
+  
+  - Aprender programação na prática ao observar o avanço do desenvolvimento de aplicações de terceiros;
+  
+  - Obter auxílio de outros programadores para resolver problemas relacionados a seus projetos;
+  
+  - Controlar as diferentes versões de um código com armazenamento em nuvem;
+  
+  - Registrar ações e projetos desenvolvidos por você em uma espécie de portfólio online, etc;
+
+- Conceitos
+
+  - Repositórios .git
+  
+  - Privado
+  
+  - Público
+  
+- Commit
+
+  - Um commit é um grupo de alterações no código. Toda vez que você quiser "salvar" as alterações feitas por você no repositório, você commita essas mudanças. Um commit contém as alterações que foram feitas nele e uma mensagem descritiva, além de informações meta (data, autor, etc).
+  
+  - O ideal é que os commit sejam feitos de forma lógica e organizada
+  
+- Branch
+
+  - Branches são separações de código. O branch padrão do projeto é o master. Branches normalmente são utilizados para separar alterações grandes ou novas funcionalidades do projeto.
+  
+- Merge
+
+  - Um merge é a união de duas branches, normalmente, merges são feitos na branch master.
+
+  - Os merges costumam dar bastante problema, pois os códigos podem (e provavelmente vão entrar em conflito). Se houverem alterações no mesmo arquivo ou o git não conseguir definir se alguma linha deve ou não entrar no projeto por motivo de conflito, essas alterações deverão ser corrigidas manualmente.
+  
+- Clone
+
+  - Um clone de um repositório funciona como uma branch de um repositório online em um repositório local. Ou seja, quando se deseja trabalhar em um repositório hospedado no github, clona-se esse repositório para o seu computador, trabalha-se nele, e então é pedida a permissão para atualizar as alterações online.
+  
+- Pull
+
+  - É uma atualização do repositório local. É feito um merge do repositório online com o local para que os conflitos sejam resolvidos e seja possível enviar o código (sem conflitos) para o repositório online por meio de um push.
+
+- Push
+
+  - Envia (ou tenta enviar) o código para o repositório online.
+  
+- Fork
+
+  - O fork é como um clone, porém dentro do github. Isso quer dizer que o repositório não vai ser baixado para seu computador, mas será criado um igual na sua conta.
+  
+- Pull Request
+
+  - Um pull request é um pedido que se faz ao dono do repositório para que esse atualize o código dele com o seu código. Ou seja, você pede para que o dono do projeto ao qual você quer contribuir adicione suas modificações ao projeto oficial.
+  
+![image](https://user-images.githubusercontent.com/33090891/230774520-7bd176ef-9f12-480d-9625-c2072a1203a6.png)
+
+</details>
+
+<details>
+<summary>Aula 09 - dia 11 de Abril: Editor de código fonte/ introdução HTML </summary>
+  
+- Porque o VS Code?
+  
+  - Editor de código
+  
+  - 20 milhões de programadores (global)
+  
+  - Mais de 34 mil extensões
+  
+  - Contém Emment abbreviations
+  
+    - Aparecimento automático de linhas de código que fazem parte da estrutura.
+  
+- Configuração VS Code com gitHub
+
+  - git config --globar user.name nomeUsuarioQueEstaNoGitHub
+  
+  - git config --global user.email emailcadastradonogit@gmail.com
+
+  - git config --list
+
+- Alguns atalhos
+  
+  - Ctrl + b = esconde ou apresenta o menu lateral
+  
+  - Ctrl + alt + p/ baixo = duplica a linha
+  
+  - html:5 = cria o cabeçario html
+  
+  - Ctrl + c = copia
+  
+  - Ctrl + v = cola
+  
+  - Alt + direcional cima/baixo = desloca a linha
+  
+- Plugins
+
+  - Live Server
+  
+- HTML - Conceito
+  
+- HTML - Hypertext Markup Language
+  
+  - Existe de 1991, atualmente está na versão 5
+  
+- Linguagem de marcação
+  
+  - Demarca a estrutura por um conjunto de elementos HTML (hipertextos) conhecidos como tags
+  
+- Tags.
+  
+  - Hipertextos que conectan entre sí formando una página.
+  
+  - Responsável por informar ao navegador que tipo de estrutura está sendo construída.
+    
+    - Cabeçalho
+  
+    - Corpo do site 
+  
+    - Títulos
+  
+    - Parágrafos
+  
+    - Imagens
+    
+    - Links 
+  
+    - Entre outros…
+
+- Mas para o navegador saber interpretar, o arquivos precisa estar com a extensão .html
+  
+- As Tags se iniciam com o sinal de “menor que” < em seguida o nome do elemento e encerra-se com o sinal de “maior que” >, e o fechamento será definido
+com a barra (/).
+  
+- Existem as tags que necessitam de fechamento e as tags que fecham-se sozinhas (self-closing).
+  
+- Exemplo:
+
+
+![image](https://user-images.githubusercontent.com/33090891/230774916-f88bedf4-861f-4b6d-a7d9-ca25ae052158.png)
+
+- Tipos de tags
+  
+  - Nível de bloco (block-level).
+  
+    - Onde ocupa toda a largura de seu elemento pai, que chamamos de elemento container, criando assim um bloco.
+  
+  - Inline.
+  
+    - Geralmente usamos para demarcação de conteúdos de texto.
+  
+  ![image](https://user-images.githubusercontent.com/33090891/230774972-485c1674-a2ea-4b44-8cb1-aa84ae67adea.png)
+  
+  ![image](https://user-images.githubusercontent.com/33090891/230774993-dac9c360-3f43-4a7f-baf9-abb3feba6748.png)
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775010-66bce8cf-347a-4663-a469-c3d1e1706f56.png)
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775016-e5677d0c-b6bf-4267-ba40-f91f5bd1dfde.png)
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775024-5e2cf9a1-e1cb-4357-b68a-77a55bfd9532.png)
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775037-97be73ca-87cb-487a-ad4c-f3b4812f89fd.png)
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775046-5a9a17d7-071e-4a0f-a1d6-7674a04228f5.png)
+  
+  ![image](https://user-images.githubusercontent.com/33090891/230775057-9922af7b-52a1-4594-a3f8-a5c73fe00038.png)
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775065-f911cf53-9d06-45f5-a819-dfd7e788242b.png)
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775087-d577286e-0e68-492a-975c-692f2c8da2c4.png)
+
+- Tags semânticas
+  
+  - Que possuem significado, que dão sentido à informação do texto ao navegador e buscadores.
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775124-68d8c455-96ec-41ef-9a0c-54ed288d0b76.png)
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775134-817984f9-7d24-4652-b6ec-d8201cbd9895.png)
+
+- Tags sem semânticas
+  
+  - Não definem significado para aquele texto, normalmente utilizadas para separação e estilização.
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775161-67b41d58-254b-4aa7-aa15-be0253ca9985.png)
+
+- Atributos das tags
+  
+  - Palavras especiais usadas dentro da abertura da tag para controlar o comportamento do elemento.
+  
+  ![image](https://user-images.githubusercontent.com/33090891/230775607-6e0f9c5d-4fcd-4b43-80bd-9a2570622358.png)
+
+  - Caminhos 
+  
+    - Absoluto
+  
+    - Relativo
+
+- Comentários
+  
+  - São notas que podem ser incluídas no código fonte para descrever o que quiser.
+
+  ![image](https://user-images.githubusercontent.com/33090891/230775198-49455a64-f769-4ff7-b5f4-1cf645471bcd.png)
+
+  
+</details>
+
+<details>
+<summary>Aula 10 - dia 13 de Abril: DOM/HTML/LISTAS</summary>
+
+- DOM
+
+  - O Modelo de Objeto de Documento (DOM) é uma interface de programação para documentos HTML, XML e SVG . Ele fornece uma representação estruturada do documento como uma árvore. O DOM define métodos que permitem acesso à árvore, para que eles possam alterar a estrutura, estilo e conteúdo do documento. O DOM fornece uma representação do documento como um grupo estruturado de nós e objetos, possuindo várias propriedades e métodos. Os nós também podem ter manipuladores de eventos que lhe são inerentes, e uma vez que um evento é acionado, os manipuladores de eventos são executados. Essencialmente, ele conecta páginas web a scripts ou linguagens de programação.
+  
+- Árvore DOM
+  
+  - O DOM foi criado pela W3C com o objetivo de desenvolver um padrão para linguagens de script para os navegadores já que antigamente cada navegador tinha seu próprio modo de manipular os objetos, o que gerava muita incompatibilidade e obrigava os desenvolvedores a escrever uma versão de script para cada navegador.
+
+  - Quando uma página web é carregada, o navegador cria o DOM, a árvore de elementos do HTML.
+  
+  ![image](https://user-images.githubusercontent.com/33090891/232353300-d306c39b-c2a9-45ee-b89b-7916e4d8ed8b.png)
+
+- Entendendo o DOM
+
+  - Document
+  
+    - Quando um documento HTML é carregado no navegador da Web, torna-se um objeto de documento. O objeto do documento é o nó raiz do documento HTML e o "dono" de todos os outros nós.
+
+  - Element
+  
+    - O objeto de elemento representa todas as tags que estão em arquivos HTML ou XML. Os objetos de elemento podem ter nós filhos de nós de texto, além de atributos.
+
+  - Text
+  
+    - Texto que vai entre os elementos, o conteúdo das tags 
+(<p>este é um texto</p>).
+
+  - Attribute
+  
+    - O objeto atributo representa um atributo que pertence sempre a um elemento HTML.
+
+- Atributos das tags
+
+  - href 
+  
+    - O atributo href é usado no HTML para fazer referência a uma URL externa, seja um link ou um arquivo.
+
+    - Através desse atributo podemos definir o destino de uma tag <a> ou até mesmo o endereço de um arquivo de estilos CSS. 
+    
+    ![image](https://user-images.githubusercontent.com/33090891/232353421-832c03e4-267a-45ef-9f72-b2f6eb7708dc.png)
+
+  - Tatget
+  
+    - O atributo <a target> especifica onde abrir o documento vinculado por uma tag a (elemento de âncora).
+    
+    - Um atributo target com o valor de _blank abre o documento vinculado em uma nova janela ou aba.
+    
+    - Um atributo target com o valor de _self abre o documento vinculado no mesmo frame no qual ele foi clicado (esse é o padrão e, em geral, não precisa ser especificado).
+
+![image](https://user-images.githubusercontent.com/33090891/232353465-7933fdbe-d823-4bfb-bc6f-db7ac2d8e17c.png)
+
+![image](https://user-images.githubusercontent.com/33090891/232353475-c63f0b67-bea1-45dc-a541-d12628d879f8.png)
+
+- Listas
+
+  - Lista é um recurso de HTML bastante utilizado, pois permite criarmos tópicos de textos para uma melhor exemplificação de um determinado assunto.
+  
+  - Um exemplo bastante utilizado são menus em HTML, relatórios de clientes, etc.
+  
+- Listas - Tipos
+
+  - Não ordenada.
+  
+  - Ordenada ou Numerada.
+  
+  - De definição - usada para fazer comentários sobre os itens expostos.
+  
+- Listas - Não Ordenadas
+
+  - As listas não ordenadas são utilizadas para listar itens, sem se preocupar com sua sequência. 
+
+  - As tags utilizadas para criar uma lista não ordenada são:
+  
+  ![image](https://user-images.githubusercontent.com/33090891/232353612-39e74eac-38a5-4e72-9ad1-43fea1bdcd3a.png)
+
+![image](https://user-images.githubusercontent.com/33090891/232353631-9c7386fb-79bd-4cb1-b600-0e2ac1ab219c.png)
+
+- Listas - Ordenada ou Numerada
+
+  - As listas ordenadas ou numeradas são usadas para indicar alguma sequência ou numeração
+
+![image](https://user-images.githubusercontent.com/33090891/232353660-ee58cfc1-2e92-4e15-9bd6-c5056481df4f.png)
+
+![image](https://user-images.githubusercontent.com/33090891/232353677-54e01282-78b4-4b1a-8994-8d94b7bfb793.png)
+
+- Listas - de Definição
+
+  - Listas de definição são usadas em assuntos onde há um termo a em sequência a sua definição, estilo perguntas e respostas.
+
+![image](https://user-images.githubusercontent.com/33090891/232353711-a5b18010-e68c-44db-baa5-481907a6f6f2.png)
+
+![image](https://user-images.githubusercontent.com/33090891/232353726-559021a6-d609-4546-9f6b-dd0ac491925b.png)
+
+</details>
+  
+<details>
+<summary>Aula 11 - dia 18 de Abril: Revisão de listas e exercício em sala</summary>
+
+- 01
+  - Criar uma pasta com o nome de exercicios_html (dentro da sua pasta com seu nome).
+  - Dentro dessa pasta, criar um arquivo principal com o nome de index.html
+  - Na página index deve conter um título, os módulos do curso de programação (informática básica, html, css, javascript, php, sql)
+  - Inserir um texto simples, com o propósito do curso.
+- 02
+  - Na mesma pasta dos exercícios de HTML, criar 1 arquivo para cada módulo listado.
+  - Para cada novo arquivo, deve ter uma breve descrição sobre o módulo (pesquisar na internet)
+  - Na página principal, deve ter um link para cada módulo, que leve para o arquivo do módulo do curso. Exemplo:
+    - No index.html terá um link css, ao clicar nesse link, precisa abrir uma nova página que você criou, chamado modulo_css.html
+- 03
+  - Organizar todo o código, com identação correta.
+  - Inserir uma lista de cada, já estudada, em alguma página criada. (a critério do aluno)
+  - Organizar as páginas com as tags semânticas corretas. 
+    - Exemplo:
+      - rodapé - footer;
+      - Cabeçalho - header;
+      - Título - H1
+
 
 
 </details>
